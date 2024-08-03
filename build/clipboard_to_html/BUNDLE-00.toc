@@ -1,0 +1,3 @@
+([('clipboard_to_html',
+   '/Users/dj/project/engToMarkDown/dist/clipboard_to_html',
+   'EXECUTABLE')],)
